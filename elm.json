@@ -1,6 +1,6 @@
 {
     "type": "package",
-    "name": "brainrape/elm-arc-diagram",
+    "name": "brainrake/elm-arc-diagram",
     "summary": "An arc diagram for visualizing acyclic digraphs",
     "license": "BSD-3-Clause",
     "version": "1.0.0",
